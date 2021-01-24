@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taller-de-vehiculos-968be",
+  "private_key_id": "1dd71e562629d9208da1925071fc410175f46a28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC41pR20qPUv0G5\nzVXhQmZI8TlgoY+1AHjCB2ZR6GS39ZPOJxL8nCbSVAuAFyOCsSxBvdNwMrPPSrEH\noKZVy0GkT9nHMneoqP4Flvbotii7i2QJZ5ZGMVYYpI4fnJJ49UxoDDX2v+KpvS4v\nzlN0Oia62ywj0IHm7+gWgmZUsMXFYAUWp/FohyUJHzcD10ZsUTcB29G0CSHguUwT\nXaN+f8v5O6JrGr8IO0yAmn0SZPW9x1JSPVy9W7QAo9iwzNa5mcePBYo+/yuZTu7V\nu3vQ/r6SZuCW0SZAfk4RBCw8u9lrwnrhlQqtiMpuNLKyPfasxL5CJPUg6hRp+oQ3\nRJQH1f8PAgMBAAECggEAFtHPFHhe55YRLDowfxXugNTfK5Hmpwb+4Z1+QWB6hseX\nzty+GFfC5zafENpKdQkgmKEx6GkqD8592p43yuHEIeAF1/TgFv9+FPyVURekIbtM\nx2h1ggb3RSWTsk1nO+202CehxevctO35NMe5P+EqBOmoImfMkdFOivDgZ1ZHpF1H\nIm+l2lk2O1epkdnpv8h3uf/qa5vEef9DRF98+BXT/uAPJWH4vLM3kEmlT/E7ayta\nWTwqxZXLme1AJn+koMDja42cCPrilLTOEAbFrrVdcOmR56v0yT5gf7ydaFwNsgVL\nUx0OaZve3+pXfY8bqi1P9V9kB3QcBKaNMgfaLZB3AQKBgQD6ul+w2MXd9OVoOtr9\nEvV6MQ+PKMnMhGjLEUWM8KWVh0iZTRKxd9ZSWs1Qwfj+Y87r8I5/xK/jh8Ti5YTC\n6xt8amILJ6YVpDELzhNGHFkvh2PSISBLd1znoSRubvMCm8hjnuB0fdLuZ3G9SWOX\niCND2ZffYiW1eNhFYr9HImfBgQKBgQC8uYhQceqUzRoroe0kwEbWxwAzHl4uChcR\nnWxNnxIucxYv5OK+2peHmDSV6QEzfI9m1msvToZAbHDp15B/XtGw+oZWWgw+8cAt\nGs33M4WhEbAJ5VpmP7ZernxzQrYzjBPd2j/Zhu7kKij0FXZhwpxI7upg/YFHaMdR\nEW0nAoTojwKBgF0y9Cj/myVzR+cjoY1bA8ak//yeE80jFvUM+YZ3WYWooPLjNGSl\ngBRizlkLkWu2XA9V/xI9YYg5SpVw7ZWq4S+xN7qfxVvcCaMyufVgykIhmJheWevT\ndcRgIPOv6EL691UYlKSYtNSLvTq4Uf3czAcHli2iBRRc1D+Ogj2F632BAoGBAJ0t\nkGAfYBXp9B/ezpjLIrSCLKJmal3BvZDIIYlMMGJLK3FcGZSGjak6lKE92+g7l1s4\nvTA7IAjLyAaZqBjMqavSGswUVxqdUUa/ikaVvHd3ObwkLnP2IDce7zs3lnO7+FfP\nC1ppzNBuZIlUzrGA2ZTMlpuMxnzowQe9kcDpkjP1AoGBAPk9GLCLYldOjlubBbn8\n5pqHSiLCXQBzrCZ+auUzT0ivBxJGlHFnqgYCXvrGKruFdpa/0dsf8TVRVsDvsm+S\neWuvOP3dJTkQ0kTU3/wtCTgHNb5YBtPwIaho77vZ65aGCOUYB6fmXGn/vemAu4Y9\n5mQbEDMGRV0nWIbtMLlZCGsk\n-----END PRIVATE KEY-----\n",
+  "client_email": "taller-de-vehiculos-968be@appspot.gserviceaccount.com",
+  "client_id": "108851860398075343358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taller-de-vehiculos-968be%40appspot.gserviceaccount.com"
+}
